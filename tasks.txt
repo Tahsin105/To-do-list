@@ -1,3 +1,7 @@
 1) Learn Git & GitHub
 2) Watching Previous Lectures
 3) Completing Assignments
+
+New Tasks
+4) Daily Workout
+5) Read 10 pages of Atomic Habit
